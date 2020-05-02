@@ -1,1 +1,1 @@
-# Canny-Edge-Computer_Vision
+# Canny-Edge-Computer-Vision
